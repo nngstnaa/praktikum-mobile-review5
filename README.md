@@ -1,4 +1,6 @@
 # pertemuan6
+# Nama : Agustina
+# NIM : 2209106086
 
 A new Flutter project.
 
